@@ -1,6 +1,6 @@
 # RETENTIX AI | Customer Churn Intelligence Studio - Project Dependencies
 # All versions pinned to match the training environment where models were serialized.
-# CRITICAL: scikit-learn==1.6.1 MUST match the version used to save .pkl artifacts.
+# CRITICAL: scikit-learn==1.6.1
 # Changing scikit-learn version will cause _RemainderColsList / pickle compatibility errors.
 
 # Core Data Science & ML Stack
